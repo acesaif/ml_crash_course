@@ -1,0 +1,3 @@
+TensorFlow 1st steps.
+TensorFlow is a general, graph-based computational framework for Machine Learning.
+Consists of two components: (i) Protocol Buffers; (ii) Runtime that executes the (distributed) graphs.
