@@ -1,0 +1,5 @@
+Here we learn on how to partition the dataset into 3 sets, Training set, Validation set and Test set.
+We train our model, on Training set validate it to Validation set and iterate this process until we get the best result.
+Finally we apply that model on Test set and compare the results.
+
+Important: Exceeded level of training on the same dataset and validating could make the model obsolete.
