@@ -1,0 +1,5 @@
+In this, we get to learn the indispensable role of features crosses in linear predictive model.
+
+We have two diffrent features say, x1 and x2, their product (cross product) x1x2 would encode nonlinearity within a linear model helping in better and most accurate prediction. This product sometimes form a logical conjuction in one-hot encoding.
+
+With this tactic a model can deal with massive amount of data. This entire process is called Synthesizing features.
