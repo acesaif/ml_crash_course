@@ -1,4 +1,3 @@
 Pandas, column oriented data analysis API.
-
-* Tool for handling and analysing input data.
-* Machine Learning frameworks support Pandas data structures as inputs.
+    * Tool for handling and analysing input data.
+    * Machine Learning frameworks support Pandas data structures as inputs.
