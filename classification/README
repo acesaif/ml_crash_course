@@ -1,0 +1,2 @@
+In this directory, there is a binary classification model, which enables to categorize discrete values.
+Few metrics like, Accuracy, Precision, Recall, ROC (Receiver Operating Characteristic curve), AUC and Prediction bias have been discussed in the concepts. Little time should spend to assimilate this metrics.
