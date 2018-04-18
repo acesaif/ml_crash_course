@@ -1,0 +1,5 @@
+This focuses on L1 Regularization technique to regularize the model in a way it reduces the size of the model as well as penalize the complexity of the model.
+
+Unlike L2 Regularization technique, this (L1) will penalize weights in a proportion to the sum of the abs(weights) also zeros out barely useful or irrelevant features to 0.
+
+L2 Regularization technique penalizes weights in the proportion to the sum of squares of the weights. Helps drive outlier weights (those with high positive or negative values) closer to 0 but not exactly to 0.
