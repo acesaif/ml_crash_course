@@ -1,0 +1,5 @@
+Little introduction to Back Propagation and Dropout Regularization.
+
+Dropout regularization is a form of regularization useful in training neural networks. It works by removing a random selection of a fixed number of units (nodes) in a network layer for a single gradient step. The more units dropped out, stronger the regularization.
+
+Back Propagation still in an understanding stage. Got a rough figure how it works.
