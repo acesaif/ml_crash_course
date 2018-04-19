@@ -1,0 +1,6 @@
+Neural Networks are more sophisticated versions of feature crosses. They learn the appropriate feature crosses themselves.
+In the situations where the data is more like spiral form, this play a major role in understanding it. Increase in complexity sometimes makes harder to choose right features to feature cross. Neural Networks learn non-linearities themselves without actually specifying them manually.
+
+Deep Neural Nets promise to do good job at complex data including image data, audio data and video data.
+We can achieve non-linearity by operation with activation functions like ReLu (Rectified Linear Unit), Sigmoid, Tanh.
+The method we use to train this is a varient of gradient descent which is called Back Propagation.
