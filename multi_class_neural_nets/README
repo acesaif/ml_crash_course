@@ -1,0 +1,4 @@
+Apart from Binary classification, that picks between one of two possible choices like in email: (spam or not spam).
+But Multiclass classification picks from multiple possibilities, for example, images like apple, bear, candy, dog etc.
+
+We use Softmax to generalize the logistic regression of the preceding nodes of output nodes. Softmax is of two categories namely, Full softmax and Candidate sampling.
