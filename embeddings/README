@@ -1,0 +1,3 @@
+An embedding is a relatively low dimensional space into which you can translate high dimensional vectors. It maps items(movies, text) to low dimensional real vectors in a way that similar items are close to each other.
+
+It is applied in collaborative filtering --> making predictions about the interests of a user based on interests of many other users.
