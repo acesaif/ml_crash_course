@@ -14,3 +14,7 @@
 * `CL` -- `Length of Carapace`
 * `CW` -- `Width of Carapace`
 * `BD` -- `Body Length`
+
+### Table of Result:
+
+| Linear_Classification | `![equation](http://latex.codecogs.com/gif.latex?log)` `Normalized` 
