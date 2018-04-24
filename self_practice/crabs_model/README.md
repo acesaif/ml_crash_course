@@ -1,6 +1,6 @@
 # Leptograpsus Crabs
 
-#### Model of Crabs using TensorFlow API.
+#### Model of Crabs using `TensorFlow` API.
 
 ### Labels:
  
@@ -17,10 +17,10 @@
 
 ### Table of Result:
 
-| Linear_Classification `parameters` | ![equation](http://latex.codecogs.com/gif.latex?log) `Normalized` | ![equation](http://latex.codecogs.com/gif.latex?Z-score) `Normalized` |
+| `parameters` | ![equation](http://latex.codecogs.com/gif.latex?log) `Normalized` | ![equation](http://latex.codecogs.com/gif.latex?Z-score) `Normalized` |
 | --- | --- | --- |
 | __`learning_rate`__ | `0.0001` | `0.00007` |
 | __`steps`__ | `3` | `3` |
 | __`batch_size`__ | `2` | `2` |
-| __`Test_Loss`__ | `0.70145` | `0.68709` |
+| __`Test_Loss (result)`__ | `0.70145` | `0.68709` |
 
