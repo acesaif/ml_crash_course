@@ -24,4 +24,4 @@
 | __`batch_size`__ | `2` | `2` |
 | __`Test_Loss (result)`__ | `0.70145` | `0.68709` |
 
-Model's __*test_loss*__ is about `0.69662` before normalization.
+###### Model's __`test_loss`__ is about `0.69662` before normalization.
