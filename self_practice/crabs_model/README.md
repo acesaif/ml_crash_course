@@ -19,8 +19,8 @@
 
 | Linear_Classification `parameters` | ![equation](http://latex.codecogs.com/gif.latex?log) Normalized | ![equation](http://latex.codecogs.com/gif.latex?Z-score) Normalized |
 | --- | --- | --- |
-| *learning_rate* | `0.0001` | `0.00007` |
-| *steps* | `3` | `3` |
-| *batch_size* | `2` | `2` |
-| *Test_Loss* | `0.70145` | `0.68709` |
+| __learning_rate__ | `0.0001` | `0.00007` |
+| __steps__ | `3` | `3` |
+| __batch_size__ | `2` | `2` |
+| __Test_Loss__ | `0.70145` | `0.68709` |
 
