@@ -8,9 +8,9 @@ Model of Crabs using TensorFlow API.
 
 ### Features:
 
-    * `sex`
-    * `FL` -- `Frontal Lip of Carapace`
-    * `RW` -- `Rear with Carapace`
-    * `CL` -- `Length of Carapace`
-    * `CW` -- `Width of Carapace`
-    * `BD` -- `Body Length`
+* `sex` -- `Male` or `Female`
+* `FL` -- `Frontal Lip of Carapace`
+* `RW` -- `Rear with Carapace`
+* `CL` -- `Length of Carapace`
+* `CW` -- `Width of Carapace`
+* `BD` -- `Body Length`
