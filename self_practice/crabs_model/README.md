@@ -2,11 +2,11 @@
 
 ##### Model of Crabs using `TensorFlow` API.
 
-### Labels:
+### Labels
  
 `SP` -- `species`
 
-### Features:
+### Features
 
 * `sex` -- `Male` or `Female`
 * `FL` -- `Frontal Lip of Carapace`
@@ -15,7 +15,7 @@
 * `CW` -- `Width of Carapace`
 * `BD` -- `Body Length`
 
-### Table of Result:
+### Table of Result
 
 | `Parameters` | ![equation](http://latex.codecogs.com/gif.latex?log) `Normalized` | ![equation](http://latex.codecogs.com/gif.latex?Z-score) `Normalized` |
 | --- | --- | --- |
