@@ -17,5 +17,6 @@
 
 ### Table of Result:
 
-| Linear_Classification | ![equation](http://latex.codecogs.com/gif.latex?log) `Normalized` |
-|  --- |  --- |
+| Linear_Classification | ![equation](http://latex.codecogs.com/gif.latex?log) Normalized | ![equation](http://latex.codecogs.com/gif.latex?Z-score) Normalized |
+|  --- |  --- | --- |
+
