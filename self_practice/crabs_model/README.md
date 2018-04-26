@@ -28,6 +28,6 @@
 
 ### End Users
 
-This results can be used in __Crab Cultering__ where it is required to monitor crabs database to rear crabs and its demand in markets. Biological researchers can use this model to categorize crabs for their studies.
+These results can be used in __`Crab Cultering`__ where it is required to monitor crabs database to rear crabs and its demands in markets. Biological researchers can use this model to `categorize` crabs for their studies.
 
-Yes, the data in which I modelled is very limited and is devoid of various features. This data consists of just 200 units which is scarce. This model can be improved to its extensive if it is fed with high quality weighted data.
+Yes, the data in which I modelled is very limited and is devoid of various features. This data consists of just `200 units` which is scarce. This model can be improved to its extensive if it is fed with high quality weighted data.
