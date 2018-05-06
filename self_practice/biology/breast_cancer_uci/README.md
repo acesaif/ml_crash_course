@@ -13,9 +13,9 @@ Label -- `diagnosis`
 #### Table of Results
 | __`Set`__ | __`LogLoss (error)`__ |
 | --- | --- |
-| __`Training`__ | `0.67128` |
-| __`Validation`__ | `0.66875` |
-| __`Testing`__ | `0.66785` |
+| __`Training`__ | `0.67728` |
+| __`Validation`__ | `0.67407` |
+| __`Testing`__ | `0.67670` |
 
 ##### Final Accuracy on `Validation Set` is `0.91`.
 
