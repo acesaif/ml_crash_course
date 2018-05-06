@@ -22,6 +22,6 @@ Label -- `diagnosis`
 #### End Users
 This model is useful to classify `Benign` and `Malignant` breast tumours. Model did good learning of categorization as you can see the `LogLoss` slumps down drastically.
 
-![logloss](https://user-images.githubusercontent.com/26320981/39395583-c97b065a-4afd-11e8-84c4-9b0bdb64e9b1.png)
+![logloss](https://user-images.githubusercontent.com/26320981/39671193-1c1bebd4-5131-11e8-81a8-5a14555d3ffd.png)
 
 Given access to more data, there is greater scope for this model to enhance.
