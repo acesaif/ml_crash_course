@@ -1,4 +1,4 @@
-## Busy with `Machine Learning Crash Course` by Google.
+# Machine Learning Crash Course
 ### Course ongoing.
 
-#### On `23/04/2018` completed this course.
+### On `23/04/2018` completed this course.
