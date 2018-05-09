@@ -42,7 +42,7 @@ def fit_line(data, error_func):
 	plt.plot(
 		x_ends,
 		l[0] * x_ends + l[1],
-		color='m',
+		'm--',
 		linewidth=2.0,
 		label='Initial guess')
 
