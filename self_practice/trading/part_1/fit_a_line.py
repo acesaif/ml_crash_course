@@ -90,7 +90,7 @@ def test_run():
 		linewidth=2.0,
 		label='Fitted line')
 	
-	plt.title('Fitting line')
+	plt.title('Fitting Line')
 	plt.legend()
 	plt.show()
 
