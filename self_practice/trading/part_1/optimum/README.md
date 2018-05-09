@@ -9,6 +9,8 @@ $ python2
 Python 2.7.14 (default, Mar 14 2018, 16:45:33) 
 [GCC 8.0.1 20180222 (Red Hat 8.0.1-0.16)] on linux2
 Type "help", "copyright", "credits" or "license" for more information.
+```
+```python
 >>>
 >>> from scipy import optimize as opt
 >>>
