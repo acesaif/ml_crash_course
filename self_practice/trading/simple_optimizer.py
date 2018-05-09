@@ -14,7 +14,7 @@ def func(X):
 
 def test_run():
 	"""Returns the optimization summary and final result."""
-	Xguess = 2.0
+	Xguess = float(np.random.randint(0, 3))
 	min_result = opt.minimize(
 		func,
 		Xguess,
