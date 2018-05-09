@@ -39,8 +39,7 @@ def fit_poly(data, error_func, degree=4):
 
 	# Plot initial guess (optional)
 	x = np.linspace(-5, 5, 21)
-	plt.plot(
-		x,
+	plt.plot(x,
 		np.polyval(Cguess, x),
 		'm--',
 		linewidth=2.0,
@@ -48,8 +47,8 @@ def fit_poly(data, error_func, degree=4):
 
 	# Call optimizer to minimize error function
 	result = opt.minimize(
-		error_func,
-		Cguess,
+		fun=error_func,
+		x0=Cguess,
 		args=(data,),
 		method='SLSQP',
 		options={'disp': True})
