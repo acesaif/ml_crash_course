@@ -1,0 +1,1 @@
+## Understanding Optimization with `scipy`
