@@ -3,3 +3,4 @@
 *.txt
 *.png
 .ipynb_checkpoints/
+trace.py
