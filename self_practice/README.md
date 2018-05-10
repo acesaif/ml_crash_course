@@ -5,3 +5,6 @@ Now its time to really try out things on my own and implement __`TensorFlow API`
 * __Biology__
   * `Crabs Dataset` ([here](http://www.stats.ox.ac.uk/pub/PRNN/crabs.dat)).
   * `Breast Cancer UCI Dataset` ([here](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/data))
+
+* __Trading__
+  * `Quandl Wiki Sources` ([here](https://quandl.com))
