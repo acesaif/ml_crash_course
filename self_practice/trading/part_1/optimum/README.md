@@ -20,3 +20,6 @@ __`Fit a Line`__ | __`Fit a Polynomial`__
 Here I did fit a line. | Here I did fit a 4th degree polynomial. |
 
 ##### These algorithms are beautiful.
+
+##### References
+  * [ML_Trading](https://in.udacity.com/course/machine-learning-for-trading--ud501)
