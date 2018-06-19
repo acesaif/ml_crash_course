@@ -13,8 +13,8 @@ def error(line, data):
 	
 	Parameters
 	----------
-	line: tuple/list/array (C0, C1) where C0 is slope and C1 is Y-intercept
-	data: 2D array where each row is a point (x, y)
+	`line`: tuple/list/array (C0, C1) where C0 is slope and C1 is Y-intercept\n
+	`data`: 2D array where each row is a point (x, y)
 
 	Returns error as a single real value.
 	"""
@@ -29,8 +29,8 @@ def fit_line(data, error_func):
 
 	Parameters
 	----------
-	data: 2D array where each row is a point (X0, Y)
-	error_func: function that computes the error between a line and observed data
+	`data`: 2D array where each row is a point (X0, Y)\n
+	`error_func`: function that computes the error between a line and observed data
 
 	Returns line that minimizes the error function.
 	"""
