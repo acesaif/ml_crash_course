@@ -13,8 +13,8 @@ def error_poly(C, data):
 
 	Parameters
 	----------
-	C: numpy.poly1d object or equivalent array representation polynomial coefficients
-	data: 2D array where each row is a point (x, y)
+	`C`: numpy.poly1d object or equivalent array representation polynomial coefficients
+	`data`: 2D array where each row is a point (x, y)
 
 	Returns error as a single real value.
 	"""
@@ -29,8 +29,8 @@ def fit_poly(data, error_func, degree=4):
 
 	Parameters
 	----------
-	data: 2D array where each row is a point (x, y)
-	error_func: function that computes the error between a polynomial and observed degree
+	`data`: 2D array where each row is a point (x, y)
+	`error_func`: function that computes the error between a polynomial and observed degree
 
 	Returns polynomial that minimizes the error function.
 	"""
