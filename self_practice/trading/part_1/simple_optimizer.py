@@ -9,7 +9,7 @@ style.use('ggplot')
 def func(X):
 	"""Given a scalar `X`, return some a value `y` (real number)."""
 	Y = (X - 1.5)**2 + 0.5
-	print "X : {}, Y : {}".format(X, Y) # for tracing how values change by the optimizer
+	print("X : {}, Y : {}".format(X, Y)) # for tracing how values change by the optimizer
 	return Y
 
 def test_run():
@@ -20,13 +20,13 @@ def test_run():
 		Xguess,
 		method='SLSQP', # Sequential Least SQuares Programming
 		options={'disp': True})
-	print '\nMinima found at: '
-	print 'X : {} Y : {}\n\n'.format(min_result.x, min_result.fun)
+	print('\nMinima found at: ')
+	print('X : {} Y : {}\n\n'.format(min_result.x, min_result.fun))
 
 	# Plot function values and mark minima
 	Xplot = np.linspace(0.5, 2.5, 21)
 	Yplot = func(Xplot)
-	print "\n{}".format(min(Yplot))
+	print("\n{}".format(min(Yplot)))
 
 	plt.plot(Xplot, Yplot, label='Objective Function')
 	plt.plot(min_result.x, min_result.fun, 'go', label='minima')

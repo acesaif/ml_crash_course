@@ -60,7 +60,7 @@ def fit_line(data, error_func):
 def test_run():
 	# Define original line
 	l_orig = np.float32([4, 2])
-	print "Original line: C0 = {}, C1 = {}".format(l_orig[0], l_orig[1])
+	print("Original line: C0 = {}, C1 = {}".format(l_orig[0], l_orig[1]))
 	Xorig = np.linspace(0, 10, 21)
 	Yorig = l_orig[0] * Xorig + l_orig[1]
 	plt.plot(
@@ -82,7 +82,7 @@ def test_run():
 
 	# Try to fit a line to this data
 	l_fit = fit_line(data, error)
-	print "Fitted line: C0 = {}, C1 = {}".format(l_fit[0], l_fit[1])
+	print("Fitted line: C0 = {}, C1 = {}".format(l_fit[0], l_fit[1]))
 	plt.plot(
 		data[:, 0],
 		l_fit[0] * data[:, 0] + l_fit[1],
