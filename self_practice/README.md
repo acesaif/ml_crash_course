@@ -8,4 +8,4 @@ Now its time to really try out things on my own and implement __`TensorFlow API`
   * `Iris Flower Problem Dataset` ([here](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data)).
 
 * __Trading__
-  * `Quandl Wiki Sources` ([here](https://quandl.com))
+  * `Quandl Wiki Sources` ([here](https://quandl.com)).
