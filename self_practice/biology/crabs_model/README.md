@@ -6,13 +6,14 @@
 `SP` -- `species`
 
 #### Features
-
-* `sex` -- `Male` or `Female`
-* `FL` -- `Frontal Lip of Carapace`
-* `RW` -- `Rear with Carapace`
-* `CL` -- `Length of Carapace`
-* `CW` -- `Width of Carapace`
-* `BD` -- `Body Length`
+| __`Features`__ | __`Description`__ |
+| --- | --- |
+| `sex` | `Male` or `Female` |
+| `FL` | `Frontal Lip of Carapace` |
+| `RW` | `Rear with Carapace` |
+| `CL` | `Length of Carapace`
+| `CW` | `Width of Carapace`
+| `BD` | `Body Length`
 
 #### Table of Result
 
