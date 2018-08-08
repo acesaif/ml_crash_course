@@ -1,7 +1,8 @@
 # Breast Cancer UCI
 ##### Model Cancer Classification using `TensorFlow` API.
 
-Label -- `diagnosis`
+| __`Label`__ | `diagnosis` |
+| --- | --- |
 
 #### Table of Hyperparameters
 | __`Parameters`__ | __`Values`__ |
