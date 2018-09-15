@@ -3,7 +3,8 @@
 ##### Model of Crabs using `TensorFlow` API.
 
 #### Labels
-`SP` -- `species`
+| __`SP`__ | __`species`__ |
+| -- | -- |
 
 #### Features
 | __`Features`__ | __`Description`__ |
