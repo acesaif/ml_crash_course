@@ -10,11 +10,11 @@
 | __`Features`__ | __`Description`__ |
 | --- | --- |
 | `sex` | `Male` or `Female` |
-| `FL` | `Frontal Lip of Carapace` |
-| `RW` | `Rear with Carapace` |
-| `CL` | `Length of Carapace`
-| `CW` | `Width of Carapace`
-| `BD` | `Body Length`
+| `FL` | `Frontal Lip of Carapace (mm)` |
+| `RW` | `Rear with Carapace (mm)` |
+| `CL` | `Length of Carapace (mm)` |
+| `CW` | `Width of Carapace (mm)` |
+| `BD` | `Body Length (mm)` |
 
 #### Table of Result
 
